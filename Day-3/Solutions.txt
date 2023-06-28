@@ -1,0 +1,21 @@
+cat {filename} - used to view what's written in a file.
+
+chmod {filename} - used to change the access permissions of files.
+
+history - to check which commands you have run till now
+
+rmdir directory/ - removes the directory/ folder.
+
+touch fruits.txt cat fruits.txt- create a file called fruits.txt and view it
+
+touch devops.txt > Apple, Mango, Banana, Cheery, Kiwi, Orange, Purple, Grey.-creates a filename called devops.txt and adds the contents.
+
+head -n 3 fruits.txt - to Show only the top three fruits from the file.
+
+tail -n 3 fruits.txt - to Show only the bottom three fruits from the file.
+
+touch colors.txt and cat colors.txt - to create a file called colors.txt and to view it.
+
+nano Colors.txt Red Pink White Black Blue Orange Purple Grey - Add content in Colors.txt (One in each line).
+
+diff fruits.txt Colors.txt - To find the difference between fruits.txt and Colors.txt files.
