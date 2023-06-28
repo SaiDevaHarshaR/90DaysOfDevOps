@@ -1,0 +1,7 @@
+pwd : (Present Working Directory) is the command to check the present working directory.
+
+ls -al : is used to list all the hidden files and folders.
+
+mkdir -p A/B/C/D/E : is used to create a nested directory A/B/C/D/E
+
+#90DaysOfDevOps
